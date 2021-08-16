@@ -31,13 +31,13 @@ education:
   courses:
     - course: MSc in Computer Science
       institution: The University of Edinburgh
-      year: ""
+      year: 2022
     - course: BEng in Computer Science and Technology
       institution: Wuhan University
-      year: ""
+      year: 2020
     - course: BSc in Chemistry
       institution: Wuhan University
-      year: ""
+      year: 2020
 email: ""
 superuser: true
 highlight_name: false
