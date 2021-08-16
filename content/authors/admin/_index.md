@@ -1,6 +1,6 @@
 ---
 title: LIU Yunqing
-role: Professor of Artificial Intelligence
+role: Postgraduate of MSc Computer Science
 avatar_filename: img_7143.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Edinburgh
+    url: https://www.ed.ac.uk/
 education:
   courses:
     - course: PhD in Artificial Intelligence
