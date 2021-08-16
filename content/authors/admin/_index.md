@@ -14,13 +14,13 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Yunqing617
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/LiuYunqing
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -29,15 +29,15 @@ organizations:
     url: https://www.ed.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Computer Science
+      institution: The University of Edinburgh
+      year: ""
+    - course: BEng in Computer Science and Technology
+      institution: Wuhan University
+      year: ""
+    - course: BSc in Chemistry
+      institution: Wuhan University
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
