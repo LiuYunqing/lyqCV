@@ -1,6 +1,7 @@
 ---
 title: LIU Yunqing
 role: Professor of Artificial Intelligence
+avatar_filename: img_7143.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
